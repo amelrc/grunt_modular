@@ -5,3 +5,4 @@ node_modules
 
 
 # ignore single files
+.DS_Store
