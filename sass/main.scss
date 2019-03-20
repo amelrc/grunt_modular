@@ -1,0 +1,18 @@
+$purple: #800080;
+$lime: #00FF00;
+
+.container {
+	color: $lime;
+
+	&_producten {
+		width: 80%;
+
+		&:hover {
+			color: $purple;
+		}
+	}
+
+	&:visited {
+		color: $lime;
+	}
+}
